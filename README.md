@@ -1,1 +1,1 @@
-![Quasi-random pixels](./pixels.png)
+![Quasi-random pixels](https://raw.githubusercontent.com/vinzdef/vinzdef/master/pixels.png)
