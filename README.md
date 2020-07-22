@@ -1,1 +1,1 @@
-![Quasi-random pixels](./pixels.jpg)
+![Quasi-random pixels](./pixels.png)
